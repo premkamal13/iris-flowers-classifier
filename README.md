@@ -1,8 +1,8 @@
 # iris_flowers_classifier
 
-First ML Project
+My first ML Project to understand the basic workflow of a learning system
 
-Steps to follow:
+Top level steps to follow:
 
 1. Define the problem
 2. Prepare the data-set
@@ -10,6 +10,6 @@ Steps to follow:
 4. Play with the models, improve the results
 5. Put the model to test
 
-
-
-
+References : 
+- https://machinelearningmastery.com/
+- https://stackoverflow.com/

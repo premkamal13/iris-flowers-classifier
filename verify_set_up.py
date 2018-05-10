@@ -1,4 +1,4 @@
-# Load libraries
+# Validate that all the required libraries required for the project are set up
 
 import pandas
 from pandas.plotting import scatter_matrix
